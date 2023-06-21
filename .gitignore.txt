@@ -1,2 +1,2 @@
-/d/Dev/backend_test_homework
+# Игнорирует все файлы с расширением .doc
 *.doc
